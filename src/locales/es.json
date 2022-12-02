@@ -1,4 +1,8 @@
 {
-    "Make": "Realizar "
+    "Name": "Nombre",
+    "Country": "País",
+    "Genre": "Género",
+    "Foundation": "Fundación",
+    "Musical Bands":"Bandas musicales"
     
 }
